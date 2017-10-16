@@ -5,10 +5,11 @@
 ## DESCRIPTION:
 I created this app for MapBox iOS code challenge job position.  
 
+###TO DO:
+I would do more test on the app and improve the second view to be more appealing to the user.
 
 
 ## Supported Formats
-
 
 =========================================================================
 
